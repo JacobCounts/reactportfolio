@@ -1,12 +1,12 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 
-function NavTabs() {
+function NavBar() {
   
   const location = useLocation();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <div className="container-fluid">
       
         <a href="https://github.com/JacobCounts" target="_blank" rel="noreferrer noopener">
@@ -57,4 +57,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default NavBar;

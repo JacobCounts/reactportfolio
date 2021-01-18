@@ -1,0 +1,12 @@
+body {
+    background-image: url("./components/images/statue2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.custom {
+    background-color: red;
+
+}
+
