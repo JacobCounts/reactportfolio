@@ -1,0 +1,50 @@
+ [
+    {
+        "id": 1,
+        "name": "Jingle All The Way",
+        "image": "./components/images/JingleAllTheWay.png",
+        "text" : "Class project #2. Allows user to create a gift list using etsy",
+        "href" : "https://jingle-all-the-way.herokuapp.com/"
+    },
+
+    { 
+        "id": 2,
+        "name": "Burger App",
+        "image": "./components/images/BurgerApp.png",
+        "text" : "Class project #2. Allows user to add a burger to the list and doevour it",
+        "href" : "https://eat-da-burger.herokuapp.com/"
+    },
+    
+
+    { 
+        "id": 3,
+        "name": "Note Taker",
+        "image": "../images/NoteTakerApp.png",
+        "text" : "A simple app that allows user to add/remove notes",
+        "href" : "https://jpc-note-taker.com/"
+    },
+    
+    { 
+        "id": 4,
+        "name": "Auto Mate",
+        "image": "../images/AutoMate.png",
+        "text" : "Class project #1. User can enter VIN# and find stats of vehicle",
+        "href" : "https://malsham3.github.io/auto-mate/"
+        
+
+    },
+    { 
+        "id": 5,
+        "name": "Quiz Game",
+        "image": "../images/QuizGame.png",
+        "text" : "Quiz game about the history of the USA",
+        "href" : "https://jacobcounts.github.io/jsQuiz-game/"
+    },
+    { 
+        "id": 6,
+        "name": "Weather Dashboard",
+        "image": "../images/weatherapp.png",
+        "text" : "Allows user to enter a city and get the current and 5 day weather forcast",
+        "href" : "https://jacobcounts.github.io/weatherDashboard/"
+    }
+]
