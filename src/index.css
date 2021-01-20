@@ -18,3 +18,10 @@ body {
 #icon1 {
     color: black;
 }
+
+h1 {
+    color: white;
+    margin-left: 175px ;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}

@@ -6,12 +6,14 @@ import auto from "../images/auto.gif";
 
 function Home() {
   return (
+    
     <div className="container mt-5">
+      <h1>Welcome to Jacob Counts Portfolio...</h1>
       <div className="row">
         <div className="col-md-7 offset-md-1">
           <div
             id="carouselExampleInterval"
-            className="carousel slide carousel-fade shadow p-3"
+            className="carousel slide carousel-fade shadow p-3" style={{width: "48rem"}}
             data-bs-ride="carousel"
           >
             <div className="carousel-inner">
