@@ -8,10 +8,15 @@ import NoteTakerApp from "../images/NoteTakerApp.png";
 import QuizGame from "../images/QuizGame.png";
 import WeatherDash from "../images/WeatherDash.png";
 
-
-
 function Portfolio(props) {
- const images = [JingleAllTheWay,BurgerApp,NoteTakerApp,AutoMate,QuizGame,WeatherDash]
+  const images = [
+    JingleAllTheWay,
+    BurgerApp,
+    NoteTakerApp,
+    AutoMate,
+    QuizGame,
+    WeatherDash,
+  ];
   return (
     <div className="card">
       <div className="img-container">
@@ -19,7 +24,7 @@ function Portfolio(props) {
           <Card
             id={friend.id}
             name={friend.name}
-            image={images [i]}
+            image={images[i]}
             text={friend.text}
             href={friend.href}
           />
